@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Keon Der
+# FILENAME: cnn.py
+# SPECIFICATION: uses a convolutional neural network to classify handwritten digits
 # FOR: CS 4210 - Assignment #4
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT:  30 minutes
 #-------------------------------------------------------------------------
 
 # Importing Python libraries
